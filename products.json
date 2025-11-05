@@ -1,0 +1,18 @@
+[
+  {
+    "sku": "alc_001",
+    "title": "Jingle Exclusivo — Alcindolemos (1m)",
+    "priceBRL": 9.9,
+    "preview": "/previews/jingle-1m.mp3",
+    "cover": "/covers/capa1.jpg",
+    "file": "jingle-1m.mp3"
+  },
+  {
+    "sku": "alc_002",
+    "title": "Rap Promo — Alcindolemos (1m)",
+    "priceBRL": 12.9,
+    "preview": "/previews/rap-1m.mp3",
+    "cover": "/covers/capa2.jpg",
+    "file": "rap-1m.mp3"
+  }
+]

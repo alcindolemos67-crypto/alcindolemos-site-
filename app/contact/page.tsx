@@ -1,0 +1,1 @@
+export default function ContactPage(){return(<main className="max-w-3xl mx-auto p-6 space-y-4"><h1 className="text-3xl font-bold">Contato</h1><p className="text-white/70">Fale no WhatsApp para encomendar sua música exclusiva.</p><a className="btn-gold inline-block" href="https://wa.me/5567991758768" target="_blank">Chamar no WhatsApp</a></main>);}

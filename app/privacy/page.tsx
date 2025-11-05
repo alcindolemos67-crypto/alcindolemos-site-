@@ -1,0 +1,1 @@
+export default function PrivacyPage(){return(<main className="max-w-3xl mx-auto p-6 space-y-6"><h1 className="text-3xl font-bold">Política de Privacidade</h1><p className="text-white/70">Tratamento de dados conforme a LGPD. Pagamentos processados pelo Mercado Pago.</p></main>);}

@@ -1,0 +1,1 @@
+export default function DownloadsPolicyPage(){return(<main className="max-w-3xl mx-auto p-6 space-y-6"><h1 className="text-3xl font-bold">Política de Downloads & Reembolsos</h1><p className="text-white/70">Links de download válidos por tempo limitado após aprovação do pagamento.</p></main>);}

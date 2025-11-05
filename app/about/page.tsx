@@ -1,0 +1,1 @@
+export default function AboutPage(){return(<main className="max-w-3xl mx-auto p-6 space-y-4"><h1 className="text-3xl font-bold">Sobre — Alcindolemos</h1><p className="text-white/70">Produtor musical e criador de jingles, raps e trilhas sob medida. Aqui você encontra prévias para ouvir e, após o pagamento, o download imediato das versões completas.</p></main>);}

@@ -1,0 +1,20 @@
+{
+  "name": "alcindolemos",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "14.2.4",
+    "react": "18",
+    "react-dom": "18",
+    "mercadopago": "^2.2.10",
+    "jsonwebtoken": "^9.0.2",
+    "clsx": "^2.1.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

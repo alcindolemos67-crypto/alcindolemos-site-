@@ -1,0 +1,6 @@
+@tailwind base;@tailwind components;@tailwind utilities;
+:root{--bg:#0b0b0f;--card:#151521;--muted:#8b8da3;--gold:#C9A543}
+body{background:var(--bg);color:#fff}
+.btn-gold{background:var(--gold);color:#111;border-radius:.75rem;padding:.625rem 1rem;font-weight:600}
+.btn-gold:hover{filter:brightness(.95)}
+.link-gold{color:var(--gold)}
